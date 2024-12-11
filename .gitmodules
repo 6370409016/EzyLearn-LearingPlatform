@@ -1,0 +1,6 @@
+[submodule "EzyLearn-Frontend"]
+	path = EzyLearn-Frontend
+	url = https://github.com/6370409016/EzyLearn-Frontend.git
+[submodule "EzyLearn-backend"]
+	path = EzyLearn-backend
+	url = https://github.com/6370409016/EzyLearn-backend.git
