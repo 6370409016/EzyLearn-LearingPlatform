@@ -1,8 +1,8 @@
 # EzyLearn-LearingPlatform
 
-\*\*EzyLearn is an innovative online learning platform designed to empower learners and educators. It allows users to register, enroll in courses, and manage their learning journey, while publishers and admins can create and manage courses, track enrollments, and manage user accounts. Built using modern web technologies, EzyLearn offers a seamless and secure learning experience for everyone.
+**EzyLearn is an innovative online learning platform designed to empower learners and educators. It allows users to register, enroll in courses, and manage their learning journey, while publishers and admins can create and manage courses, track enrollments, and manage user accounts. Built using modern web technologies, EzyLearn offers a seamless and secure learning experience for everyone.**
 
-Author: Badal Kumar Behera\*\*
+## **Author: Badal Kumar Behera**
 
 ## Backend
 
